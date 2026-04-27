@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Forex Journal",
+    "slug": "forex-journal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0E1A"
+    },
+    "android": {
+      "package": "com.donni009.forexjournal",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0A0E1A"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
